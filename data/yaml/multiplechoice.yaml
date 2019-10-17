@@ -1,0 +1,26 @@
+- question: Which of these animals is a mammal?
+  questionid: 1
+  hint: Not yet. Keep trying.
+  answers:
+    - answer: dog
+      correct: True
+    - answer: spider
+      correct: False
+    - answer: mouse
+      correct: True
+    - answer: bird
+      correct: False
+
+- question: Welches dieser Tiere ist ein Säugetier?
+  questionid: 2
+  hint: Denk nochmal drüber nach
+  answers:
+    - answer: Hund
+      correct: True
+    - answer: Spinne
+      correct: False
+    - answer: Maus
+      correct: True
+    - answer: Vogel
+      correct: False
+
