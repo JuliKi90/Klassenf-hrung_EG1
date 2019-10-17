@@ -10,7 +10,7 @@ type: information
 
 ## Warum sollten Sie sich damit beschäftigen?
 
-* Klassenführung ist eine der schwierigsten Aufgaben und zugleich die,auf die einige von Ihnen am wenigsten vorbereitet sind! 
+* Klassenführung ist eine der schwierigsten Aufgaben und zugleich die,auf die einige von Ihnen am wenigsten vorbereitet sind 
 * Klassenführung ist der vielleicht bedeutendste Faktor von Unterrichtserfolg
 * Schlechte Klassenführung bzw. hohe Störungsrate produziert Stress bei allen Beteiligten 
 
