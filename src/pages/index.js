@@ -21,7 +21,6 @@ const Heading = styled.div`
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  /* clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 100px), 0 100%); */
 
   h1 {
     margin: 0;
@@ -111,7 +110,7 @@ const ModuleNumber = styled.div`
   width: 29%;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 `;
 
@@ -124,46 +123,7 @@ const ModuleDescription = styled.div`
   font-size: 1.3rem;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    font-size: 2rem;
-  }
-`;
-
-const Credits = styled.div`
-  display: none;
-  color: hsl(250, 16%, 99%);
-  padding: 10px;
-  padding-left: 20px;
-  background-color: hsl(220, 16%, 19%);
-  border-radius: 5px;
-  margin-top: 5vh;
-  width: 50%;
-
-  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    display: block;
-    transform: rotate(-2deg);
-    position: fixed;
-    bottom: 5vh;
-    width: auto;
-    margin-top: 0;
-    right: 10vh;
-  }
-
-  a {
-    color: hsl(250, 16%, 99%);
-    border-bottom: 1px solid ${props => props.theme.primaryColor};
-    text-decoration: none;
-
-    &:hover {
-      border-bottom: 2px solid ${props => props.theme.primaryColorLight};
-    }
-  }
-
-  svg {
-    color: ${props => props.theme.primaryColor};
-    position: absolute;
-    font-size: 2.5rem;
-    top: -27%;
-    left: -8%;
+    font-size: 1.7rem;
   }
 `;
 
@@ -182,8 +142,11 @@ export default ({ data }) => {
             </Heading>
             <Content>
               <Spring
-                from={{ opacity: 0 }}
-                to={{ opacity: 1 }}
+                delay={100}
+                from={{ 
+                  opacity: 0,
+                  transform: "scale(0.9)" }}
+                to={{ opacity: 1, transform: "scale(1)"  }}
                 config={{duration: 200}}>
                 {props => 
                   <ModulesFlexbox style={props}>
@@ -203,9 +166,6 @@ export default ({ data }) => {
                 }
               </Spring>
             </Content>
-          <Credits><FaStar /><span>Designed and developed by<br />
-            <a target="_blank" href="https:/christianburkhart.de">Christian Burkhart</a>
-              </span></Credits>
          </Modules>
       </Shell> 
   );
