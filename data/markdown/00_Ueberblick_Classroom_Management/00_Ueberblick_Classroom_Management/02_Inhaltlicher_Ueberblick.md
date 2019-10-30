@@ -21,10 +21,12 @@ Damit das gelingt, kann die Lehrkraft im Umgang mit Disziplinschwierigkeiten Pr�
 
 Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang mit Unterrichtsstörungen kennen. Sie werden feststellen, dass die Maßnahmen, je nachdem, wie und wann sie eingesetzt werden, sowohl präventive als auch intervenierende Elemente aufweisen. 
 
-In den beiden Kapiteln zum operanten Konditionieren stellen wir Ihnen zum einen die Grundprinzipien des Konditionierens vor und bieten Ihnen zum anderen Ideen zur Implementierung von Konditionierungsmaßnahmen in den Unterricht an. Eingebettet in diese Kapitel ist außerdem die wissenschaftliche Begleitung der Lerneinheit mit Hilfe eines Fragebogens. 
+* In den beiden Kapiteln zum operanten Konditionieren stellen wir Ihnen zum einen die **Grundprinzipien des operanten Konditionierens** vor und bieten Ihnen zum anderen **Ideen zur Implementierung von Konditionierungsmaßnahmen** in den Unterricht an. Eingebettet in diese Kapitel ist außerdem die wissenschaftliche Begleitung der Lerneinheit mit Hilfe eines Fragebogens. 
+  
+* Im darauffolgenden Kapitel stellen wir Ihnen die **Prinzipien effizienter Klassenführung nach Kounin** vor (Allgegenwärtigkeit und Überlappung, Reibungslosigkeit und Schwung und die Aufrechterhaltung des Gruppenfokus), aus denen sich vielfältige Präventions- und Interventionsstrategien für Ihren Unterricht ableiten lassen. 
 
-Im darauffolgenden Kapitel stellen wir Ihnen die Prinzipien effizienter Klassenführung nach Kounin vor (Allgegenwärtigkeit und Überlappung, Reibungslosigkeit und Schwung und die Aufrechterhaltung des Gruppenfokus), aus denen sich vielfältige Präventions- und Interventionsstrategien für Ihren Unterricht ableiten lassen. 
+* Anschließend stellen wir Ihnen unterschiedliche **Arten von Regeln** vor und geben **Empfehlung zur Einführung und Aufrechterhaltung von Regelstrukturen** im Unterricht. 
 
-Im Kapitel „“ stellen wir Ihnen unterschiedliche Arten von Regeln vor und geben Empfehlung zur Einführung und Aufrechterhaltung von Regelstrukturen im Unterricht. 
+* Abschließend finden Sie einen **Überblick der vorgestellten Maßnahmen** und generelle **Empfehlungen zu präventiven und intervenierenden Vorgehensweisen** bei Unterrichtsstörungen.
 
-Abschließend finden Sie einen Überblick der vorgestellten Maßnahmen und generelle Empfehlungen zu präventiven und intervenierenden Vorgehensweisen bei Unterrichtsstörungen. 
+Viel Spaß bei der Bearbeitung - los geht's! 

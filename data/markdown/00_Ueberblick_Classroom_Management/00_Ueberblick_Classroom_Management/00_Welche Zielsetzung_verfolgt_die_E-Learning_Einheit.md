@@ -10,6 +10,8 @@ type: information
 
 ## Welche Zielsetzung verfolgt die E-Learning Einheit?
 
+![](01_Wimmelbild_Klassenführung.png)
+
 * Klassenführung ist eine der herausfordernsten Aufgaben, mit denen eine Lehrkraft im Unterricht konfrontiert ist und zugleich die, auf die einige von Ihnen sich am wenigsten gut vorbereitet fühlen. 
 * Klassenführung ist der vielleicht bedeutendste Faktor von Unterrichtserfolg
 * Schlechte Klassenführung bzw. hohe Störungsrate produziert Stress bei allen Beteiligten 
