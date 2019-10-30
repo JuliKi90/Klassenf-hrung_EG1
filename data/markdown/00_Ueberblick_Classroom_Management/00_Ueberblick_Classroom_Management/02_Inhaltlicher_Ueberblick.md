@@ -14,9 +14,9 @@ Um trotz der komplexen Anforderung im Klassenzimmer einen reibungslosen und mög
 
 Damit das gelingt, kann die Lehrkraft im Umgang mit Disziplinschwierigkeiten Präventions- und Interventionsmaßnahmen ergreifen. 
 
-**Präventionsmaßnahmen** dienen dazu, den primären Handlungsvektor (den im voraus geplanten Unterrichtsverlauf) zu stärken und zu schützen.
+> - **Präventionsmaßnahmen** dienen dazu, den primären Handlungsvektor (den im voraus geplanten Unterrichtsverlauf) zu stärken und zu schützen.
 
-**Interventionsmaßnahmen** dienen dazu, konkurrierende Handlungsvektoren (Unterrichtsstörungen) zu schwächen und zu beenden.
+> - **Interventionsmaßnahmen** dienen dazu, konkurrierende Handlungsvektoren (Unterrichtsstörungen) zu schwächen und zu beenden.
 
 
 Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang mit Unterrichtsstörungen kennen. Sie werden feststellen, dass die Maßnahmen, je nachdem, wie und wann sie eingesetzt werden, sowohl präventive als auch intervenierende Elemente aufweisen. 
