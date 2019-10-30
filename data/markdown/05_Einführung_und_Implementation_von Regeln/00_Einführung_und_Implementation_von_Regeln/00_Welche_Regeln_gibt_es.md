@@ -1,14 +1,14 @@
 ---
-moduleTitle: Prävention durch Organisation und Regeln
-unitTitle: Prävention durch Organisation und Regeln
-title: Prävention durch Organisation und Regeln
+moduleTitle: Einführung und Implementation von Regeln 
+unitTitle: Einführung und Implementation von Regeln 
+title: Welche Regeln gibt es?
 module: 5
 unit: 0
 subunit: 0
 type: information
 ---
 
-## Prävention durch Organisation und Regeln
+## Welche Regeln gibt es?
 
 Regeln sind Erwartungen an das Schüler*innenverhalten in bestimmten (wiederkehrenden) Situationen und somit ein essentieller Bestandteil der Störungsprävention. Was sich zu regeln empfiehlt, variiert je nach Altersstufe und Besonderheiten der Klasse. 
 
