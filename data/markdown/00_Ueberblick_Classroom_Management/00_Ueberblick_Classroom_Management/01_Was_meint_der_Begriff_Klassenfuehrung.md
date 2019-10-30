@@ -14,7 +14,7 @@ type: information
 
 Wenn Sie an Ihren eigenen Unterricht in der vergangenen Woche denken, fallen Ihnen bestimmt ähnliche Situationen ein. Am Beispiel von Frau Zander wird deutlich, wie komplex sich selbst alltägliche Unterrichtssituationen darstellen: Innerhalb kurzer Zeit interagiert die Lehrkraft mit den SchülerInnen, andere SchülerInnen interagieren parallel dazu miteinander und es werden organisatorische und fachliche Fragen thematisiert. 
 
-> Unterricht ist immer …
+ Unterricht ist immer …
     * mehrdimensional: viele Dinge finden auf unterschiedlichen Ebenen statt.
     * simultan: viele Dinge müssen gleichzeitig koordiniert werden.
     * unmittelbar: alles ist in ständigem Fluss und erfordert hohe Aufmerksamkeit und ein schnelles Reaktionsvermögen. 
