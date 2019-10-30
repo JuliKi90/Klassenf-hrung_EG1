@@ -12,23 +12,33 @@ type: information
 
 *Verstärkung: Aufbau von Verhalten*
 
-Mit Verstärkung lässt sich eine Erhöhung der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann auf zweierlei Arten geschehen: durch Darbietung einer angenehmen Konsequenz (**positive Verstärkung**) oder durch Entzug einer unangenehmen Konsequenz (**negative Verstärkung**). 
+Bei Verstärkungsprozessen wird das Ereignis, das auf ein Verhalten folgt als angenehm empfunden. Mit Verstärkung lässt sich daher eine Erhöhung der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann auf zweierlei Arten geschehen: durch Darbietung eines angenehmen Reizes (**positive Verstärkung**) oder durch Entzug eines unangenehmen Reizes (**negative Verstärkung**). 
+
+*Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:* 
+*- kauft die Mutter in Folge des Quängelns die gewünschten Süßigkeiten, wird für das Kind ein angenehmer Reiz hinzugefügt*:**positive Verstärkung**
+
+*- erlaubt die Mutter zur Besänftigung des Kindes, dass es stattdessen während des Bezahlvorgangs bereits aus der Gebäcktüte ein Brötchen essen darf, was sonst verboten ist, wird für das Kind eine unangenehmer Reiz (Verbot) entzogen*: **negative Verstärkung** 
 
 ![](01_Operante_Konditionierung_Verstaerkung.png)
  
-> * Positive Verstärkung (+): Es wird eine angenehme Konsequenz hinzugefügt.
-> * Negative Verstärkung (-): Es wird eine unangenehme Konsequenz entzogen. 
+> * Positive Verstärkung (+): Es wird ein angenehmer Reiz hinzugefügt.
+> * Negative Verstärkung (-): Es wird ein unangenehmer Reiz entzogen. 
 
 In beiden Fällen führt Verstärkung dazu, dass ein Verhalten häufiger auftritt. 
 
 
 *Bestrafung: Abbau von Verhalten*
 
-Durch Bestrafung lässt sich eine Reduktion der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann ebenfalls auf zweierlei Arten geschehen: durch Darbietung einer unangenehmen Konsequenz (**positive Bestrafung**) oder durch Entzug einer angenehmen Konsequenz (**negative Bestrafung**). 
+Bei Bestrafungsprozessen wird das Ereignis, was auf ein Verhalten folgt als unangenehm empfunden. Durch Bestrafung lässt sich eine Reduktion der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann ebenfalls auf zweierlei Arten geschehen: durch Darbietung eines unangenehmen Reizes (**positive Bestrafung**) oder durch Entzug eines angenehmen Reizes (**negative Bestrafung**). 
 
 ![](01_Operante_Konditionierung_Bestrafung.png)
 
-> * Positive Bestrafung (+): Es wird eine unangenehme Konsequenz hinzugefügt.
-> * Negative Bestrafung (-): Es wird eine angenehme Konsequenz entzogen.
+> * Positive Bestrafung (+): Es wird ein unangenehmer Reiz hinzugefügt.
+> * Negative Bestrafung (-): Es wird ein angenehmer Reiz entzogen.
 
 In beiden Fällen führt Bestrafung dazu, dass ein Verhalten seltener auftritt. 
+
+*Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:* 
+*- schimpft die Mutter in Folge des Quängelns mit dem Kind, so dass sich alle Anderen umdrehen, wird für das Kind ein unangenehmer Reiz hinzugefügt*: **positive Bestrafung**
+*- lässt die Mutter in Folge des Quängelns die ausgesuchten Sachen des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*:**negative Bestrafung**
+ 

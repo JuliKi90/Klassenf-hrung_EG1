@@ -28,21 +28,19 @@ Eine Möglichkeit Unterrichtsstörungen zu vermeiden (Prävention) oder einzudä
 
 *Stellen Sie sich beispielsweise vor, ein Kind steht an der Kasse eines Supermarktes und macht die Erfahrung, dass lautes Quängeln und Heulen dazu führt, dass die Mutter die gewünschten Süßigkeiten kauft, die sie zuvor abgelehnt hat.*
 
-    	       - Das Kind lernt, dass auf ein bestimmtes Verhalten (quängeln und heulen) eine positive Konsequenz folgt (Mutter kauft       Süßigkeiten). Man könnte auch sagen, das Kind wird für sein Verhalten „belohnt“. 
-
-	           - In der Folge zeigt das Kind dieses Verhalten häufiger (quängelt und heult jedes Mal an der Kasse). 
-
-	           - Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängelns und Heulens an der Kasse mit dem Kauf von                        Süßigkeiten. 
+ - Das Kind lernt, dass auf ein bestimmtes Verhalten (quängeln und heulen) eine positive Konsequenz folgt (Mutter kauft Süßigkeiten). Man könnte auch sagen, das Kind wird für sein Verhalten „belohnt“. 
+  
+ - In der Folge zeigt das Kind dieses Verhalten häufiger (quängelt und heult jedes Mal an der Kasse). 
+  
+ - Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängelns und Heulens an der Kasse mit dem Kauf von Süßigkeiten. 
 
 Schaubild 1 einfügen
 
 *Stellen Sie nun vor, die Mutter würde dem quängelnden und heulenden Kind erwidern, dass sie aufgrund seines trotzigen Verhaltens nun auch die restlichen Sachen, die sich das Kind im Laufe des Einkaufs ausgesucht hat, an der Kasse zurücklässt.*
 
-                - Das Kind lernt, dass auf ein bestimmtes Verhalten (quängeln und heulen) eine negative Konsequenz folgt (alle              ausgesuchten Sachen werden an der Kasse zurückgelassen). Man könnte auch sagen, das Kind wird für sein Verhalten          „bestraft“. 
-
-                - In der Folge zeigt das Kind dieses Verhalten seltener.
-
-                - Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängeln und Heulens an der Kasse mit dem Zurücklassen     ausgesuchter Sachen. 
+- Das Kind lernt, dass auf ein bestimmtes Verhalten (quängeln und heulen) eine negative Konsequenz folgt (alle ausgesuchten Sachen werden an der Kasse zurückgelassen). Man könnte auch sagen, das Kind wird für sein Verhalten „bestraft“. 
+- In der Folge zeigt das Kind dieses Verhalten seltener.
+- Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängeln und Heulens an der Kasse mit dem Zurücklassen ausgesuchter Sachen. 
 
 Schaubild 2 einfügen
 
