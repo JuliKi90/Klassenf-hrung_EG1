@@ -49,12 +49,14 @@ Schaubild 2 einfügen
 *Was bedeutet das für den gezielten Aufbau und Abbau Verhalten?*
 
 Im vorangegangenen Beispiel haben sie nun bereits zwei unterschiedliche Prinzipien operanten Konditionierens kennengelernt: 
+
 •	Wird die Konsequenz, die auf das Verhalten folgt, als positiv empfunden, spricht man Verstärkungsprozessen. Verstärkungsprozesse führen dazu, dass Verhalten aufgebaut wird, also häufiger gezeigt wird.
+
 •	Wird die Konsequenz, die auf das Verhalten folgt, als negativ empfunden, spricht man von Bestrafungsprozessen. Bestrafungsprozesse führen dazu, dass ein Verhalten seltener gezeigt wird. 
 
-Schaubild Verstärkung/ Bestrafung
+![](01_Operante_Konditionierung_einfach.png)
 
-Beide Prozesse werden Ihnen im Folgenden näher erläutert. In der pädagogischen Psychologie spricht man in diesem Zusammenhang von **operanter Konditionierung**.
+Beide Prozesse werden Ihnen im Folgenden näher erläutert.
 
 
 

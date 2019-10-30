@@ -1,14 +1,14 @@
 ---
 moduleTitle: Überblick Classroom Management
 unitTitle: Überblick Classroom Management
-title: Prävention und Intervention
+title: Inhaltlicher Überblick
 module: 0
 unit: 0
 subunit: 2
 type: information
 ---
 
-## Prävention und Intervention
+## Inhaltlicher Überblick
 
 Um trotz der komplexen Anforderung im Klassenzimmer einen reibungslosen und möglichst störungsarmen Unterrichtsablauf zu ermöglichen, muss die Lehrkraft langfristige Ordnungsstrukturen herzustellen und aufrechterhalten. 
 

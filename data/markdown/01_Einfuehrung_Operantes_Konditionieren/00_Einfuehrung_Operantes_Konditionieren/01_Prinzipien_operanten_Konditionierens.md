@@ -10,13 +10,6 @@ type: information
 
 ## Prinzipien operanten Konditionierens
 
-*Überblick*
-
-Bei der operanten Konditionierung wird systematisch zwischen Prozessen der Verstärkung und Bestrafung unterschieden. Verstärkungsprozesse führen dazu, dass Verhalten aufgebaut wird. Bestrafungsprozesse führen dazu, dass Verhalten abgebaut wird.
-
-![](01_Operante_Konditionierung_einfach.png)
-
-
 *Verstärkung: Aufbau von Verhalten*
 
 Mit Verstärkung lässt sich eine Erhöhung der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann auf zweierlei Arten geschehen: durch Darbietung einer angenehmen Konsequenz (**positive Verstärkung**) oder durch Entzug einer unangenehmen Konsequenz (**negative Verstärkung**). 
