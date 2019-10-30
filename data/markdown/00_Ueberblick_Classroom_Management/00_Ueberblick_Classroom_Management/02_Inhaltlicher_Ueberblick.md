@@ -29,4 +29,6 @@ Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang
 
 * Abschließend finden Sie einen **Überblick der vorgestellten Maßnahmen** und generelle **Empfehlungen zu präventiven und intervenierenden Vorgehensweisen** bei Unterrichtsstörungen.
 
+Alle Inhalte der digitalen Lerneinheit erhalten Sie im Anschluss an die Seminarsitzung zusätzlich als Print-Reader für Ihre Unterlagen.
+
 Viel Spaß bei der Bearbeitung - los geht's! 

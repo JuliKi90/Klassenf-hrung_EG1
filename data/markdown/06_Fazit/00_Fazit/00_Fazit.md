@@ -18,7 +18,7 @@ Schaubild Stufenmodell einfügen
 
 Das bedeutet für Sie im Unterricht: 
 
-•	**Primären Handlungsvektor stärken**: Wenn möglich, einen Vorfall im akuten Moment ganz übergehen um Unterrichtsfluss aufrecht zu erhalten. Positives Verhalten durch Lob und Aufmerksamkeit verstärken! 
+•	**Primären Handlungsvektor stärken**: Wenn möglich, einen Vorfall im akuten Moment ganz übergehen um den Unterrichtsfluss aufrecht zu erhalten. Positives Verhalten durch Lob und Aufmerksamkeit verstärken! 
 
 •	**Primären Handlungsvektor schützen**: Zunächst nonverbale Signale ohne Unterrichtsunterbrechung senden (z.B. Blickkontakt aufnehmen, räumlich annähern). 
 

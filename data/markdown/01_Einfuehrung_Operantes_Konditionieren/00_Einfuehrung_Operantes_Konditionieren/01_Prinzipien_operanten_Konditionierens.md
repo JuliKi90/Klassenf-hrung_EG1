@@ -44,5 +44,8 @@ Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
 
 *- schimpft die Mutter in Folge des Quängelns mit dem Kind, so dass sich alle Anderen umdrehen, wird für das Kind ein unangenehmer Reiz hinzugefügt*: **positive Bestrafung**
 
-*- lässt die Mutter in Folge des Quängelns die ausgesuchten Sachen des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*:**negative Bestrafung**
+*- lässt die Mutter in Folge des Quängelns die ausgesuchten Sachen des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*: **negative Bestrafung**
  
+Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, ergeben sich vier mögliche Konditionierungsmaßnahmen zum gezielten Aufbau bzw. Abbau von Verhalten:
+
+Schaubild gesamt einfügen

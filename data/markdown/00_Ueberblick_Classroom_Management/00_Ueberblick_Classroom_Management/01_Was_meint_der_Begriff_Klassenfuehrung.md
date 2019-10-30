@@ -32,8 +32,6 @@ Unterrichtsstörungen...
 * lassen sich in drei verschiedene Arten kategorisieren: aktive Unterrichtsstörungen, passive Unterrichtsstörungen und Störungen der Schüler*innen-Interaktion. 
  
 
-![](01_Wimmelbild_Klassenführung.png)
-
 <flipcard id="12"></flipcard>
 <flipcard id="13"></flipcard>
 <flipcard id="14"></flipcard>
