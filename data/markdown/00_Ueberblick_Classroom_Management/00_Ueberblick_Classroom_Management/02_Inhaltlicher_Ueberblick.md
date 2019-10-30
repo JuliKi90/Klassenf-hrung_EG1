@@ -16,12 +16,8 @@ Damit das gelingt, kann die Lehrkraft im Umgang mit Disziplinschwierigkeiten Pr�
 
 **Präventionsmaßnahmen** dienen dazu, den primären Handlungsvektor (den im voraus geplanten Unterrichtsverlauf) zu stärken und zu schützen.
 
-<Flipcard Beispiele für präventive Maßnahmen>
-
-
 **Interventionsmaßnahmen** dienen dazu, konkurrierende Handlungsvektoren (Unterrichtsstörungen) zu schwächen und zu beenden.
 
-<Flipcard Beispiele für intervenierende Maßnahmen>
 
 Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang mit Unterrichtsstörungen kennen. Sie werden feststellen, dass die Maßnahmen, je nachdem, wie und wann sie eingesetzt werden, sowohl präventive als auch intervenierende Elemente aufweisen. 
 
