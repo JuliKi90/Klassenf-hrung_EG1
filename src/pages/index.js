@@ -137,8 +137,8 @@ export default ({ data }) => {
         </Helmet>
           <Modules>
             <Heading>
-              <h1>Saoirse [ˈsˠiːɾʲʃə]</h1>
-              <h2>A Content-First E-Learning Framework</h2>
+              <h1>Classroom Management</h1>
+              <h2>Lerneinheit zur Entwicklung von Klassenführungskompetenzen</h2>
             </Heading>
             <Content>
               <Spring

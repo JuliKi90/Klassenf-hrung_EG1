@@ -1,10 +1,10 @@
 ---
-moduleTitle: Operantes Konditionieren
-unitTitle: Operantes Konditionieren
+moduleTitle: Praxisvertiefung Operantes Konditionieren
+unitTitle: Praxisvertiefung Operantes Konditionieren
 title: Empfehlungen für den Einsatz des Verstärkungsprinzips im Unterricht
-module: 1
+module: 3
 unit: 0
-subunit: 3
+subunit: 0
 type: information
 ---
 

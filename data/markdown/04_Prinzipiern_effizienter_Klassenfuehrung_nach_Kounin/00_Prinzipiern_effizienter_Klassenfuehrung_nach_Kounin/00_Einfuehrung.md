@@ -1,8 +1,8 @@
 ---
-moduleTitle: Prinzipien der Klassenführung nach Kounin
-unitTitle: Prinzipien der Klassenführung nach Kounin
+moduleTitle: Prinzipien effizienter Klassenführung nach Kounin
+unitTitle: Prinzipien effizienter Klassenführung nach Kounin
 title: Einführung
-module: 2
+module: 4
 unit: 0
 subunit: 0
 type: information

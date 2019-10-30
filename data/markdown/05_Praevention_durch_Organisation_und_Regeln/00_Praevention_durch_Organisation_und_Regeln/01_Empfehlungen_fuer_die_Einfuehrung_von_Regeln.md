@@ -2,7 +2,7 @@
 moduleTitle: Prävention durch Organisation und Regeln
 unitTitle: Prävention durch Organisation und Regeln  
 title: Empfehlungen für die Einführung von Regeln
-module: 3
+module: 5
 unit: 0
 subunit: 1
 type: information

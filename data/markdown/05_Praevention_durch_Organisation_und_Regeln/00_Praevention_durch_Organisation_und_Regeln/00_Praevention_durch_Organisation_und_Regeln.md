@@ -2,7 +2,7 @@
 moduleTitle: Prävention durch Organisation und Regeln
 unitTitle: Prävention durch Organisation und Regeln
 title: Prävention durch Organisation und Regeln
-module: 3
+module: 5
 unit: 0
 subunit: 0
 type: information

@@ -1,6 +1,6 @@
 ---
-moduleTitle: Einführung Classroom Management
-unitTitle: Einführung Classroom Management
+moduleTitle: Überblick Classroom Management
+unitTitle: Überblick Classroom Management
 title: Welche Zielsetzung verfolgt die E-Learning Einheit?
 module: 0
 unit: 0

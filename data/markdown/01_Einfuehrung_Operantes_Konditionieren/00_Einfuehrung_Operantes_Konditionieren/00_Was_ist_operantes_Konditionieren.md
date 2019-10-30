@@ -1,6 +1,6 @@
 ---
-moduleTitle: Operantes Konditionieren
-unitTitle: Operantes Konditionieren
+moduleTitle: Einführung Operantes Konditionieren
+unitTitle: Einführung Operantes Konditionieren
 title: Was ist operantes Konditionieren?
 module: 1
 unit: 0
