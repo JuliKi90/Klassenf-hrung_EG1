@@ -15,17 +15,17 @@ type: information
 Wenn Sie an Ihren eigenen Unterricht in der vergangenen Woche denken, fallen Ihnen bestimmt ähnliche Situationen ein. Am Beispiel von Frau Zander wird deutlich, wie komplex sich selbst alltägliche Unterrichtssituationen darstellen: Innerhalb kurzer Zeit interagiert die Lehrkraft mit den SchülerInnen, andere SchülerInnen interagieren parallel dazu miteinander und es werden organisatorische und fachliche Fragen thematisiert. 
 
  Unterricht ist immer …
-    * mehrdimensional: viele Dinge finden auf unterschiedlichen Ebenen statt.
-    * simultan: viele Dinge müssen gleichzeitig koordiniert werden.
-    * unmittelbar: alles ist in ständigem Fluss und erfordert hohe Aufmerksamkeit und ein schnelles Reaktionsvermögen. 
-    * öffentlich: Handeln der Lehrkraft läuft immer vor den Augen der Klasse ab und wird permanent beurteilt. 
+* **mehrdimensional**: viele Dinge finden auf unterschiedlichen Ebenen statt.
+* **simultan**: viele Dinge müssen gleichzeitig koordiniert werden.
+* **unmittelbar**: alles ist in ständigem Fluss und erfordert hohe Aufmerksamkeit und ein schnelles Reaktionsvermögen. 
+* **öffentlich**: Handeln der Lehrkraft läuft immer vor den Augen der Klasse ab und wird permanent beurteilt. 
+
+Diese Charakteristik von Unterrichtssituationen macht die vielfältigen Anforderungen deutlich, mit denen sich Lehrkräfte alltäglich konfrontiert sehen. Grundvoraussetzung für eine erfolgreiche Gestaltung von Unterricht unter diesen Bedingungen sind **souveräner Klassenführungskompetenzen** der Lehrkraft und der **kompetente Umgang mit Unterrichtsstörungen**.
 
 Klassenführung...
 * wird definiert als Handlungen und Strategien, die dazu dienen, Ordnungsstrukturen im Klassenraum herzustellen und aufrechtzuerhalten (z.B. Helmke, 2012; Seidel, 2009). 
 * ist eine wesentliche Voraussetzung, für die Maximierung der aktiven Lernzeit.
 * gilt als eine Basisdimension der Unterrichtsqualität.
-
-Der Übergang von normalem zu störendem Schüler*innenverhalten ist oft fließend. 
 
 Unterrichtsstörungen...
 * können **normativ** (Handlungen, die gegen Regeln verstoßen) oder **funktional** (Handlungen, die den geplanten Unterrichtsverlauf verzögern/ verhindern) definiert werden. 

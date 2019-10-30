@@ -10,7 +10,7 @@ type: information
 
 ## Aufrechterhaltung des Gruppenfokus
 
-Die Dimension Aufrechterhaltung des Gruppenfokus zielt auf die Stimulierung einer breiten Aufmerksamkeit sowie auf eine breite Leistungskontrolle ab. Es geht darum, möglichst viele Schüler*innen gleichzeitig zu aktivieren und kontrollieren, auch solche, die gerade nicht „dran“ sind.
+Die Dimension **Aufrechterhaltung des Gruppenfokus** zielt auf die Stimulierung einer breiten Aufmerksamkeit sowie auf eine breite Leistungskontrolle ab. Es geht darum, möglichst viele Schüler*innen gleichzeitig zu aktivieren und kontrollieren, auch solche, die gerade nicht „dran“ sind.
 
 > *Schlüsselwörter:* Rechenschaftsprinzip, Mobilisierung der ganzen Lerngruppe
 
