@@ -18,17 +18,16 @@ Wenn Sie an Ihren eigenen Unterricht in der vergangenen Woche denken, fallen Ihn
 * **mehrdimensional**: viele Dinge finden auf unterschiedlichen Ebenen statt.
 * **simultan**: viele Dinge müssen gleichzeitig koordiniert werden.
 * **unmittelbar**: alles ist in ständigem Fluss und erfordert hohe Aufmerksamkeit und ein schnelles Reaktionsvermögen. 
-* **öffentlich**: Handeln der Lehrkraft läuft immer vor den Augen der Klasse ab und wird permanent beurteilt. 
+* **öffentlich**: Handeln der Lehrkraft läuft immer vor den Augen der Klasse ab.  
 
 Diese Charakteristik von Unterrichtssituationen macht die vielfältigen Anforderungen deutlich, mit denen sich Lehrkräfte alltäglich konfrontiert sehen. Grundvoraussetzung für eine erfolgreiche Gestaltung von Unterricht unter diesen Bedingungen sind **souveräner Klassenführungskompetenzen** der Lehrkraft und der **kompetente Umgang mit Unterrichtsstörungen**.
 
 Klassenführung...
-* wird definiert als Handlungen und Strategien, die dazu dienen, Ordnungsstrukturen im Klassenraum herzustellen und aufrechtzuerhalten (z.B. Helmke, 2012; Seidel, 2009). 
+* wird definiert als Handlungen und Strategien, die dazu dienen, Ordnungsstrukturen im Klassenraum herzustellen und aufrechtzuerhalten.
 * ist eine wesentliche Voraussetzung, für die Maximierung der aktiven Lernzeit.
 * gilt als eine Basisdimension der Unterrichtsqualität.
 
 Unterrichtsstörungen...
-* können **normativ** (Handlungen, die gegen Regeln verstoßen) oder **funktional** (Handlungen, die den geplanten Unterrichtsverlauf verzögern/ verhindern) definiert werden. 
 * lassen sich in drei verschiedene Arten kategorisieren: aktive Unterrichtsstörungen, passive Unterrichtsstörungen und Störungen der Schüler*innen-Interaktion. 
  
 

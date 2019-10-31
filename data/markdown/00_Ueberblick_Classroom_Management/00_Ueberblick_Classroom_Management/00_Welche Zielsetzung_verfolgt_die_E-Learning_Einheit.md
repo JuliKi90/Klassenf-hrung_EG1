@@ -12,8 +12,10 @@ type: information
 
 ![](01_Wimmelbild_Klassenführung.png)
 
+Wie dieses Bild sehr treffend zeigt, passiert im Unterricht auf vielen Ebenen sehr viel gleichzeitig. Die vielfätigen Anforderungen, die sich daraus für Lehrkräfte im Unterricht ergeben, macht die Relevanz souveräner Klassenführung deutlich: 
+
 * Klassenführung ist eine der herausfordernsten Aufgaben, mit denen eine Lehrkraft im Unterricht konfrontiert ist und zugleich die, auf die einige von Ihnen sich am wenigsten gut vorbereitet fühlen. 
-* Klassenführung ist der vielleicht bedeutendste Faktor von Unterrichtserfolg
+* Klassenführung ist ein bedeutender Faktor von Unterrichtserfolg
 * Schlechte Klassenführung bzw. hohe Störungsrate produziert Stress bei allen Beteiligten 
 
 > Effektive Klassenführung ist nicht eine Frage der Lehrerpersönlichkeit, sondern ein erlernbares Handwerk! 

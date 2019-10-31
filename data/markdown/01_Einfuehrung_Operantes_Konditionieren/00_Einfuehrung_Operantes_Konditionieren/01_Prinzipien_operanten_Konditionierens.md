@@ -24,12 +24,12 @@ In beiden Fällen führt Verstärkung dazu, dass ein Verhalten häufiger auftrit
 
 Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
 
-*- kauft die Mutter in Folge des Quängelns die gewünschten Süßigkeiten, wird für das Kind ein angenehmer Reiz hinzugefügt*:**positive Verstärkung**
+*- kauft die Mutter in Folge des Quängelns die gewünschten Süßigkeiten, wird für das Kind ein angenehmer Reiz hinzugefügt*: **positive Verstärkung**
 
 *- erlaubt die Mutter zur Besänftigung des Kindes, dass es stattdessen während des Bezahlvorgangs bereits aus der Gebäcktüte ein Brötchen essen darf, was sonst verboten ist, wird für das Kind eine unangenehmer Reiz (Verbot) entzogen*: **negative Verstärkung** 
 
 
-*Bestrafung: Abbau von Verhalten*
+***Bestrafung: Abbau von Verhalten***
 
 Bei Bestrafungsprozessen wird das Ereignis, was auf ein Verhalten folgt als unangenehm empfunden. Durch Bestrafung lässt sich eine Reduktion der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann ebenfalls auf zweierlei Arten geschehen: durch Darbietung eines unangenehmen Reizes (**positive Bestrafung**) oder durch Entzug eines angenehmen Reizes (**negative Bestrafung**). 
 
@@ -42,9 +42,9 @@ In beiden Fällen führt Bestrafung dazu, dass ein Verhalten seltener auftritt.
 
 Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
 
-*- schimpft die Mutter in Folge des Quängelns mit dem Kind, so dass sich alle Anderen umdrehen, wird für das Kind ein unangenehmer Reiz hinzugefügt*: **positive Bestrafung**
+*- schimpft die Mutter in Folge des Quängelns mit dem Kind, wird für das Kind ein unangenehmer Reiz hinzugefügt*: **positive Bestrafung**
 
-*- lässt die Mutter in Folge des Quängelns die ausgesuchten Sachen des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*: **negative Bestrafung**
+*- lässt die Mutter in Folge des Quängelns den Lieblingsjoghurt des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*: **negative Bestrafung**
  
 Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, ergeben sich vier mögliche Konditionierungsmaßnahmen zum gezielten Aufbau bzw. Abbau von Verhalten:
 
