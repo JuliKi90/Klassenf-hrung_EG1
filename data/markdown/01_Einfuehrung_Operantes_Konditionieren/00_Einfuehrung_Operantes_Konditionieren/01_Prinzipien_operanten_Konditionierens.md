@@ -10,7 +10,7 @@ type: information
 
 ## Prinzipien operanten Konditionierens
 
-*Verstärkung: Aufbau von Verhalten*
+***Verstärkung: Aufbau von Verhalten***
 
 Bei Verstärkungsprozessen wird das Ereignis, das auf ein Verhalten folgt als angenehm empfunden. Mit Verstärkung lässt sich daher eine Erhöhung der Auftretenswahrscheinlichkeit eines Verhaltens bewirken. Dies kann auf zweierlei Arten geschehen: durch Darbietung eines angenehmen Reizes (**positive Verstärkung**) oder durch Entzug eines unangenehmen Reizes (**negative Verstärkung**). 
 
@@ -48,4 +48,4 @@ Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
  
 Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, ergeben sich vier mögliche Konditionierungsmaßnahmen zum gezielten Aufbau bzw. Abbau von Verhalten:
 
-Schaubild gesamt einfügen
+![](01_Schaubild_gesamt.png)
