@@ -1,6 +1,6 @@
 - question: Wählen Sie alle Verfahrensregeln aus!
   questionid: 1
-  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  hint: Not yet. Keep trying.
   answers:
     - answer: Wenn es zum zweiten Mal läutet, sitzen Alle an ihren Tischen und bereiten die Arbeitsmaterialien vor.
       correct: True
@@ -13,7 +13,7 @@
 
 - question: Wählen Sie alle Verhaltensregeln aus!
   questionid: 2
-  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  hint: Not yet. Keep trying.
   answers:
     - answer: Alle werden in die Klassengemeinschaft integriert.
       correct: True
