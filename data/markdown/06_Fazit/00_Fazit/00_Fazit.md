@@ -14,17 +14,16 @@ Sie haben nun im Laufe der digitalen Lerneinheit verschiedene Maßnahmen und Str
 
 > Generell gilt:  Maßnahmen zur Störungsprävention und – intervention sollten sukzessive gesteigert werden mit dem Ziel möglichst wenig Unterbrechung zu verursachen und schnell zum Unterricht zurückzukehren!
 
-Schaubild Stufenmodell einfügen
+![](00_Stufenmodell.png)
 
 Das bedeutet für Sie im Unterricht: 
 
 •	**Primären Handlungsvektor stärken**: Wenn möglich, einen Vorfall im akuten Moment ganz übergehen um den Unterrichtsfluss aufrecht zu erhalten. Positives Verhalten durch Lob und Aufmerksamkeit verstärken! 
 
-•	**Primären Handlungsvektor schützen**: Zunächst nonverbale Signale ohne Unterrichtsunterbrechung senden (z.B. Blickkontakt aufnehmen, räumlich annähern). 
+•	**Primären Handlungsvektor schützen**: Zunächst nonverbale Signale ohne Unterrichtsunterbrechung senden (z.B. Blickkontakt aufnehmen, räumlich annähern).
 
 •	**Konkurrierenden Handlungsvektor schwächen**: Wenn die Störung mehr Eingreifen erforderlich macht, minimale beiläufige Intervention (z.B. kurze Aufforderung/ Ermahnung, Nennung des Namen, Sprechpause einlegen) nutzen. 
 
 •	**Konkurrierenden Handlungsvektor beenden**: Nur wenn die Störung gravierende Auswirkungen auf den Unterrichtsverlauf hat: Störungen sanktionieren (z.B. Sitzordnung ändern, Nacharbeit/Zusatzarbeit). 
 
-
-Drag + Drop Items einfügen!
+<orderquestion id="1"></orderquestion>

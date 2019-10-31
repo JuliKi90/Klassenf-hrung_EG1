@@ -23,7 +23,7 @@ Eine Möglichkeit Unterrichtsstörungen zu vermeiden (Prävention) oder einzudä
  •	So kommt es zum Aufbau einer Assoziation zwischen Verhalten und Konsequenz (Kontingenz).
 
 
-![](00_Verstaerkungskontingenz.png)
+![](00_Verhalten_Konsequenz_gesamt.png)
 
 
 *Stellen Sie sich beispielsweise vor, ein Kind steht an der Kasse eines Supermarktes und macht die Erfahrung, dass lautes Quängeln und Heulen dazu führt, dass die Mutter die gewünschten Süßigkeiten kauft, die sie zuvor abgelehnt hat.*
@@ -34,7 +34,7 @@ Eine Möglichkeit Unterrichtsstörungen zu vermeiden (Prävention) oder einzudä
   
  - Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängelns und Heulens an der Kasse mit dem Kauf von Süßigkeiten. 
 
-Schaubild 1 einfügen
+![](00_Verhalten_Konsequenz_Schaubild1.png)
 
 *Stellen Sie nun vor, die Mutter würde dem quängelnden und heulenden Kind erwidern, dass sie aufgrund seines trotzigen Verhaltens nun auch die restlichen Sachen, die sich das Kind im Laufe des Einkaufs ausgesucht hat, an der Kasse zurücklässt.*
 
@@ -42,7 +42,7 @@ Schaubild 1 einfügen
 - In der Folge zeigt das Kind dieses Verhalten seltener.
 - Das Kind assoziert aufgrund dieser Erfahrung die Situation des Quängeln und Heulens an der Kasse mit dem Zurücklassen ausgesuchter Sachen. 
 
-Schaubild 2 einfügen
+![](00_Verhalten_Konsequenz_Schaubild2.png)
 
 *Was bedeutet das für den gezielten Aufbau und Abbau Verhalten?*
 
@@ -52,7 +52,7 @@ Im vorangegangenen Beispiel haben sie nun bereits zwei unterschiedliche Prinzipi
 
 > •	Wird die Konsequenz, die auf das Verhalten folgt, als negativ empfunden, spricht man von Bestrafungsprozessen. Bestrafungsprozesse führen dazu, dass ein Verhalten seltener gezeigt wird. 
 
-![](01_Operante_Konditionierung_einfach.png)
+![](00_Operante_Konditionierung_einfach.png)
 
 Beide Prozesse werden Ihnen im Folgenden näher erläutert.
 

@@ -16,3 +16,8 @@ Grundsätzlich lassen sich zwei Arten von Regeln unterscheiden:
 
 <flipcard id="15"></flipcard>
 <flipcard id="16"></flipcard>
+
+Welches Lehrkraftverhalten dient dazu, den primären Handlungsvektor zu schützen?
+
+<multiplechoice id="1"></multiplechoice>
+<multiplechoice id="2"></multiplechoice>
