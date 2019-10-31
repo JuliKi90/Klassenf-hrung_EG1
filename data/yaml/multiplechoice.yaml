@@ -1,4 +1,4 @@
-- question: Wählen Sie alle Verfahrensregeln aus!
+- question: Wählen Sie alle Verfahrensregeln aus.
   questionid: 1
   hint: Not yet. Keep trying.
   answers:
@@ -11,7 +11,7 @@
     - answer: Wenn Jemand eine Frage stellt, wird nicht gelacht. 
       correct: False
 
-- question: Wählen Sie alle Verhaltensregeln aus!
+- question: Wählen Sie alle Verhaltensregeln aus.
   questionid: 2
   hint: Not yet. Keep trying.
   answers:
