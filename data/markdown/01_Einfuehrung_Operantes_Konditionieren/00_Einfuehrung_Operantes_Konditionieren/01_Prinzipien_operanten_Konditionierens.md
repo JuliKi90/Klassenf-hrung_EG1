@@ -1,14 +1,14 @@
 ---
 moduleTitle: Einführung Operantes Konditionieren
 unitTitle: Einführung Operantes Konditionieren
-title: Prinzipien operanten Konditionierens
+title: Prinzipien Operanten Konditionierens
 module: 1
 unit: 0
 subunit: 1
 type: information
 ---
 
-## Prinzipien operanten Konditionierens
+## Prinzipien Operanten Konditionierens
 
 ***Verstärkung: Aufbau von Verhalten***
 
@@ -47,5 +47,3 @@ Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
 *- lässt die Mutter in Folge des Quängelns den Lieblingsjoghurt des Kindes an der Kasse zurück, wird für das Kind ein angenehmer Reiz entzogen*: **negative Bestrafung**
  
 Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, ergeben sich vier mögliche Konditionierungsmaßnahmen zum gezielten Aufbau bzw. Abbau von Verhalten:
-
-![](01_Schaubild_gesamt.png)

@@ -10,7 +10,7 @@ type: information
 
 ## Was ist operantes Konditionieren?
 
-Störungen zu vermeiden oder einzudämmen hat viel mit dem gezielten Aufbau von erwünschtem und dem Abbau unerwünschten Schüler*innenverhalten zu tun. Der Aufbau bzw. Abbau von Verhaltens wird in den Prinzipien Operanten Konditionierens systematisiert. 
+Störungen zu vermeiden oder einzudämmen hat viel mit dem gezielten Aufbau von erwünschtem und dem Abbau unerwünschten Schüler*Innenverhalten zu tun. Der Aufbau bzw. Abbau von Verhaltens wird in den Prinzipien Operanten Konditionierens systematisiert. 
 
 *Wie funktioniert operante Konditionierung?*
 
@@ -20,7 +20,7 @@ Störungen zu vermeiden oder einzudämmen hat viel mit dem gezielten Aufbau von 
 
  •	Verhalten wird wegen der darauffolgenden positiven oder negativen Konsequenz gezeigt bzw. nicht gezeigt. 
 
- •	So kommt es zum Aufbau einer Assoziation zwischen Verhalten und Konsequenz (Kontingenz).
+ •	So kommt es zum Aufbau einer Assoziation zwischen Verhalten und Konsequenz.
 
 
 ![](00_Verhalten_Konsequenz_gesamt.png)

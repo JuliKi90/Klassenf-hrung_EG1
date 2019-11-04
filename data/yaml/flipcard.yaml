@@ -1,5 +1,5 @@
 - front: Materielle Verstärker
-  back: Materielle Verstärker sind etwa Spielsachen, Bildchen, Süßigkeiten usw. oder Spielmarken, Sternchen, Stemple oder Striche, die gegen solche Gegenstände eingetauscht werden können.
+  back: Materielle Verstärker sind etwa Spielsachen, Bildchen, Süßigkeiten usw.
   flipcardid: 1
 
 - front: Soziale Verstärker
@@ -61,7 +61,3 @@
 - front: "(2) Verfahrensregeln in Form von konkreten Vorgaben für bestimmte, wiederkehrende Abläufe in häufig vorkommenden Unterrichtssituationen"
   back: "Beispiele: Wann genau, mit welchem Signal beginnt der Unterricht? Was ist zu tun, wenn sich die Lehrkraft verspätet? Zu welchen Zwecken darf man von seinem Platz aufstehen? Welche Folgen hat die Nichterledigung von Hausaufgaben?"
   flipcardid: 16
-
-- front: Austauschverstärker
-  back: "Beispiele: Wann genau, mit welchem Signal beginnt der Unterricht? Was ist zu tun, wenn sich die Lehrkraft verspätet? Zu welchen Zwecken darf man von seinem Platz aufstehen? Welche Folgen hat die Nichterledigung von Hausaufgaben?"
-  flipcardid: 17

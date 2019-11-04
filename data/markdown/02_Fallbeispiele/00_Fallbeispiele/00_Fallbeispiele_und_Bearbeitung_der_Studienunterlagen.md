@@ -10,4 +10,4 @@ type: information
 
 ## Fallbeispiele und Bearbeitung der Studienunterlagen
 
-Nachdem Sie nun einen Überblick über die Prinzipien operanten Konditionierens erhalten haben, bearbeiten Sie bitte einige Fallbeispiele dazu. Im Anschluss an die Bearbeitung der Fallbeispiele erhalten Sie einen Fragebogen, mit dem wir Ihren Lernfortschritt untersuchen möchten. 
+Nachdem Sie nun einen Überblick über die Prinzipien Operanten Konditionierens erhalten haben, bitten wir Sie nun einige Fallbeispiele dazu zu bearbeiten. Im Anschluss an die Bearbeitung der Fallbeispiele erhalten Sie einen Fragebogen, mit dem wir Ihren Lernfortschritt untersuchen möchten.

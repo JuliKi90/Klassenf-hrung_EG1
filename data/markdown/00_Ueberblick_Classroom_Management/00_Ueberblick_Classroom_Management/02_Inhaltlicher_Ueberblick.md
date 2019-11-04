@@ -23,7 +23,7 @@ Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang
 
 * In den beiden Kapiteln zum operanten Konditionieren stellen wir Ihnen zum einen die **Grundprinzipien des operanten Konditionierens** vor und bieten Ihnen zum anderen **Ideen zur Implementierung dieser Prinzipien** in den Unterricht an. Eingebettet in diese Kapitel ist außerdem die wissenschaftliche Begleitung der Lerneinheit mit Hilfe eines Fragebogens. 
   
-* Im darauffolgenden Kapitel stellen wir Ihnen die **Prinzipien effizienter Klassenführung nach Kounin** vor (Allgegenwärtigkeit und Überlappung, Reibungslosigkeit und Schwung und die Aufrechterhaltung des Gruppenfokus), aus denen sich vielfältige Präventions- und Interventionsstrategien für Ihren Unterricht ableiten lassen. 
+* Im darauffolgenden Kapitel stellen wir Ihnen die **Prinzipien effizienter Klassenführung nach Kounin** vor: Allgegenwärtigkeit und Überlappung, Reibungslosigkeit und Schwung und die Aufrechterhaltung des Gruppenfokus. Aus diesen Prinzipien ergeben sich vielfältige Präventions- und Interventionsstrategien für Ihren Unterricht. 
 
 * Anschließend stellen wir Ihnen unterschiedliche **Arten von Regeln** vor und geben **Empfehlung zur Einführung und Aufrechterhaltung von Regelstrukturen** im Unterricht. 
 
