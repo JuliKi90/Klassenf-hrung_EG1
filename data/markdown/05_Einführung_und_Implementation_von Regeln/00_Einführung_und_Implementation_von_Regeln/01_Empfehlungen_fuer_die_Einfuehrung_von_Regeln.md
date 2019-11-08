@@ -29,4 +29,4 @@ type: information
 * Anreize für die Einhaltung und Sanktionen für Verstöße klarstellen: *z.B. Einführung eines Punktesystems: bei konstruktivem Arbeitsverhalten werden Punkt hinzugefügt, bei destruktivem Arbeitsverhalten werden Punkte entzogen. Punkte können von der Klasse gegen attraktive gemeinsame Aktivitäten eingelöst werden, beispielsweise "Mathe-Fußball".*
 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 6* ***Fazit***. 
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 6 Fazit.* 

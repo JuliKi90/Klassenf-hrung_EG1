@@ -36,4 +36,4 @@ Alle Inhalte der digitalen Lerneinheit erhalten Sie im Anschluss an die Seminars
 
 Viel Spaß bei der Bearbeitung - los geht's! 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 1* ***Einführung Operantes Konditionieren***.
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 1 Einführung Operantes Konditionieren.*

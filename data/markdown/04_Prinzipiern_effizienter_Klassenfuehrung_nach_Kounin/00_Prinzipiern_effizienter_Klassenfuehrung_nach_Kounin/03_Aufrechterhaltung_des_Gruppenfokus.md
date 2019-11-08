@@ -27,4 +27,4 @@ Die Dimension **Aufrechterhaltung des Gruppenfokus** zielt auf die Stimulierung 
 
 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 5* ***Einführung und Implementation von Regeln***. 
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 5 Einführung und Implementation von Regeln.*
