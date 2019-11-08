@@ -51,4 +51,4 @@ Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, er
 ![](01_Schaubild_gesamt.png)
 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Wählen Sie als nächstes das Kapitel 2 **Fallbeispiele** aus.*
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 2* ***Fallbeispiele***. 
