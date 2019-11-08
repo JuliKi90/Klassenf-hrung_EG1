@@ -10,7 +10,7 @@ type: information
 
 ## Inhaltlicher Überblick
 
-Um trotz der komplexen Anforderung im Klassenzimmer einen reibungslosen und möglichst störungsarmen Unterrichtsablauf zu ermöglichen, muss die Lehrkraft langfristige Ordnungsstrukturen herzustellen und aufrechterhalten. 
+Um trotz der komplexen Anforderung im Klassenzimmer einen reibungslosen und möglichst störungsarmen Unterrichtsablauf zu ermöglichen, muss die Lehrkraft langfristige Ordnungsstrukturen herstellen und aufrechterhalten. 
 
 Damit das gelingt, kann die Lehrkraft im Umgang mit Disziplinschwierigkeiten Präventions- und Interventionsmaßnahmen ergreifen. 
 
@@ -36,4 +36,4 @@ Alle Inhalte der digitalen Lerneinheit erhalten Sie im Anschluss an die Seminars
 
 Viel Spaß bei der Bearbeitung - los geht's! 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Wählen Sie als nächstes das Kapitel 1 **Einführung Operantes Konditionieren** aus*
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 1 **Einführung Operantes Konditionieren**.*

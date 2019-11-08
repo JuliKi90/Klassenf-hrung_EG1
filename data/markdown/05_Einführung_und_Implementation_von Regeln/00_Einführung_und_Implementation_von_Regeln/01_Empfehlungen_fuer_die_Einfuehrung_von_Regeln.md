@@ -27,3 +27,5 @@ type: information
 * So konkret und verhaltensnah wie möglich
 * So ernst nehmen wie möglich: *z.B. Reinrufen nicht bei guten inhaltlichen Beiträgen durchgehen lassen, weil es den Unterricht in dem Fall voranbringt*
 * Anreize für die Einhaltung und Sanktionen für Verstöße klarstellen: *z.B. Einführung eines Punktesystems: bei konstruktivem Arbeitsverhalten werden Punkt hinzugefügt, bei destruktivem Arbeitsverhalten werden Punkte entzogen. Punkte können von der Klasse gegen attraktive gemeinsame Aktivitäten eingelöst werden, beispielsweise "Mathe-Fußball".*
+
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 6 **Fazit***. 

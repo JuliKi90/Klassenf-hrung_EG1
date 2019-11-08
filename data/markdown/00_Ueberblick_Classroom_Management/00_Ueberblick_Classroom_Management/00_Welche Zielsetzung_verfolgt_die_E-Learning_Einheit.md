@@ -12,9 +12,6 @@ type: information
 
 ![](01_Wimmelbild_Klassenführung.png)
 
-entnommen aus https://allthingslearning.files.wordpress.com/2011/04/classroom-management-02.jpg
-
-
 
 Wie dieses Bild sehr treffend zeigt, passiert im Unterricht auf vielen Ebenen sehr viel gleichzeitig. Die vielfätigen Anforderungen, die sich daraus für Lehrkräfte im Unterricht ergeben, macht die Relevanz souveräner Klassenführung deutlich: 
 
