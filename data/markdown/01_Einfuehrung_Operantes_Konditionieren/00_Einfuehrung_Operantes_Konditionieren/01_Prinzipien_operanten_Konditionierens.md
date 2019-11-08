@@ -49,3 +49,6 @@ Mit Blick auf unser Kind an der Supermarktkasse bedeutet das:
 Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, ergeben sich vier mögliche Konditionierungsmaßnahmen zum gezielten Aufbau bzw. Abbau von Verhalten:
 
 ![](01_Schaubild_gesamt.png)
+
+
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Wählen Sie als nächstes das Kapitel 2 **Fallbeispiele** aus*.

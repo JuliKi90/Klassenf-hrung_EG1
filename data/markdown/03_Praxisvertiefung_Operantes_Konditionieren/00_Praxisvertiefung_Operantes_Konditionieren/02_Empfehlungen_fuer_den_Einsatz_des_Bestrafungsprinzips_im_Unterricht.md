@@ -27,3 +27,5 @@ Beim Einsatz von Bestrafungsmechanismen im Unterricht, sollten sie sich immer be
 Häufige Konfrontation mit Bestrafung kann bei den SchülerInnen außerdem zu einer **negative Selbstwahrnehmung** und zu **psychosomatischen Beschwerden** führen. Im schlimmsten Fall ergeben sich daraus ein **Flucht- und Vermeidungsverhalten** der Lernenden. 
 
 > Verhaltensweisen, denen eine Bestrafung folgt, werden zwar unter bestimmten Bedingungen gemieden oder geschwächt, selten aber ganz beseitigt. Es sinkt leidglich die Auftretenswahrscheinlichkeit oder Intensität. Durch Maßnahmen der Bestrafung wird ein Fehlverhalten demnach unterdrückt, nicht aber ein alternatives, angemessenes Verhalten aufgebaut. Bestrafung sollte daher immer als letztes Mittel im Umgang mit unerwünschtem Verhalten gewählt werden.
+
+*Fahren Sie nun nochmals mit der Bearbeitung ihres Begleithefts fort. Anschließend wird die Seminarleiterin mit Ihnen im Plenum weiterarbeiten.*

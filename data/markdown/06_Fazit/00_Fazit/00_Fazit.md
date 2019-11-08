@@ -26,4 +26,9 @@ Das bedeutet für Sie im Unterricht:
 
 •	**Konkurrierenden Handlungsvektor beenden**: Nur wenn die Störung gravierende Auswirkungen auf den Unterrichtsverlauf hat: Störungen sanktionieren (z.B. Sitzordnung ändern, Nacharbeit/Zusatzarbeit). 
 
+
+**Ordnen Sie die Präventions- und Interventionsmaßnahmen der Lehkraft aufsteigend nach dem Umfang der Unterrichtsunterbrechung!**
+
 <orderquestion id="1"></orderquestion>
+
+*Geschafft! Sie haben sich nun alle Inhalte erarbeitet. Wir hoffen, Sie können viele Anregungen für Ihre Unterrichtspraxis mitnehmen!*

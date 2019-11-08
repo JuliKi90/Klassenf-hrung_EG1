@@ -35,3 +35,5 @@ Im Laufe der digitalen Lerneinheit lernen Sie verschiedene Maßnahmen zum Umgang
 Alle Inhalte der digitalen Lerneinheit erhalten Sie im Anschluss an die Seminarsitzung zusätzlich als Print-Reader für Ihre Unterlagen.
 
 Viel Spaß bei der Bearbeitung - los geht's! 
+
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Wählen Sie als nächstes das Kapitel 1 **Einführung Operantes Konditionieren** aus*

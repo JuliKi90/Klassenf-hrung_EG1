@@ -24,3 +24,6 @@ Die Dimension **Aufrechterhaltung des Gruppenfokus** zielt auf die Stimulierung 
 <flipcard id="9"></flipcard>
 <flipcard id="10"></flipcard>
 <flipcard id="11"></flipcard>
+
+
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Wählen Sie als nächstes das Kapitel 5 **Einführung und Implementation von Regeln** aus*.
