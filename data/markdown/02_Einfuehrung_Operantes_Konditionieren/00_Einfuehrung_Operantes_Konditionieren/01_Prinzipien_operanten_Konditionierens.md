@@ -2,7 +2,7 @@
 moduleTitle: Einführung Operantes Konditionieren
 unitTitle: Einführung Operantes Konditionieren
 title: Prinzipien Operanten Konditionierens
-module: 1
+module: 2
 unit: 0
 subunit: 1
 type: information
@@ -51,4 +51,4 @@ Betrachtet man nun alle Verstärkungs- und Bestrafungsprozesse im Überblick, er
 ![](01_Schaubild_gesamt.png)
 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Bearbeiten Sie als nächstes das Kapitel 2 Fallbeispiele.* 
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Arbeiten Sie anschließend **im Begleitheft** weiter!* 
